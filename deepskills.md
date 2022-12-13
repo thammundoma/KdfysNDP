@@ -1,11 +1,4 @@
-# Mintbase Grant Proposal
 
-- **Project Name:** Deep Skills
-- **Team Name:** Deep Skills Ltd
-- **Payment Address:** kischiman.near
-- **[Level](../README.md#level_slider-levels):** 2
-
-## Project Overview :page_facing_up:
 
 ### Overview
 
@@ -82,12 +75,6 @@
 - Andrej Berlin (CEO, Product Design, UX)
 - Denis Popov (CTO, web3, backend)
 - Oleksandr Lazarchuk (Frontend)
-
-### Contact
-
-- **Contact Name:** Andrej Berlin
-- **Contact Email:** andrej@deepwork.studio
-- **Website:** deepskills.io
 
 ### Legal Structure
 
